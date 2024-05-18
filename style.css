@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.akademi a{
+    text-transform: uppercase;
+}
+.akademi .alt{
+    color: rgba(0, 0, 0, 0.73);
+    border-bottom: 2px solid #FF7500 ;
+
+
+}
+.akademi .sha :hover{
+    color: #FF7500;
+    border-bottom: #FF7500 2px solid;
+}
+.akademi .alt :hover{
+    color: #FF7500;
+}
